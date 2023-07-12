@@ -1,5 +1,9 @@
 # CatDogNet
 
+[Портфолио](https://jellywilliam.github.io)
+
+[Ссылка на репозиторий](https://github.com/JellyWilliam/CatDogNet)
+
 # Набор данных
 
 [Cats-vs-Dogs](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)
